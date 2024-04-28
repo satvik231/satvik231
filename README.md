@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 💬 Ask me about **Javascript Reactjs**
+- 💬 Ask me about **Html5 CSS Javascript Reactjs Bootstrap5**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
