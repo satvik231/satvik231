@@ -1,8 +1,8 @@
-[![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/280986147/original/2cf1a6040fb2d7b4cd4fa2349d5a1ed9d42b1f01/do-frontend-web-development-in-html-css-and-react.jpg)]
+![MasterHead](https://img.freepik.com/premium-vector/programming-concept-with-icon-set-with-big-word-text-center_25156-951.jpg?w=2000)
 <h1 align="center">Hi 👋, I'm satvik kambli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif" alt="satvik231" /> </p>
+<img align="right" width="400"> <img src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif" alt="satvik231" />
 
 - 🌱 I’m currently learning **Nodejs**
 
