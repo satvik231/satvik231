@@ -22,20 +22,37 @@ I'm a data analyst who enjoys the moment a messy spreadsheet turns into a clean,
 - 📐 Solid grounding in statistics, so conclusions hold up to scrutiny
 - 📊 I build dashboards people actually open more than once
 - 🌱 Currently leveling up on advanced analytics and storytelling with data
-- 💬 Happy to talk shop about EDA, dashboard design, or SQL query optimization
 
 <br>
 
-## 🧰 Tools I Reach For
+## 📊 Skills
+
+<div align="center">
+  <img src="assets/skills_chart.png" width="600" alt="Skills chart" />
+</div>
+
+<br>
+
+## 📈 Activity & Tools
+
+<div align="center">
+  <img src="assets/activity_trend.png" width="480" alt="Contribution trend" />
+  <img src="assets/tool_split.png" width="320" alt="Tool usage split" />
+</div>
+
+<br>
+
+## 🧰 Tech Stack
 
 <div align="center">
 
-| Category | Tools |
-|---|---|
-| **Languages & Querying** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Analysis & Reporting** | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Statistics](https://img.shields.io/badge/Statistics-555555?style=flat-square&logo=googleanalytics&logoColor=white) |
-| **Visualization / BI** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) |
-| **Python Libraries** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white) |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 </div>
 
@@ -48,19 +65,15 @@ I'm a data analyst who enjoys the moment a messy spreadsheet turns into a clean,
   <a href="https://github.com/satvik231/your-repo-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=satvik231&repo=your-repo-2&theme=default&hide_border=true" /></a>
 </div>
 
-> 💡 Swap `your-repo-1` / `your-repo-2` for your actual project repo names to pin them here.
+> 💡 Swap `your-repo-1` / `your-repo-2` for your actual project repo names.
 
 <br>
 
-## 📈 GitHub Activity
+## 🐙 GitHub Stats *(auto-updating badges)*
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=satvik231&show_icons=true&theme=default&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satvik231&layout=compact&theme=default&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satvik231&theme=default&hide_border=true" />
 </div>
 
 <br>
