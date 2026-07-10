@@ -83,12 +83,31 @@ I'm an aspiring **Data Analyst** with a strong interest in transforming raw data
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satvik231&layout=compact&theme=default&hide_border=true" />
 </div>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satvik231&theme=default&hide_border=true" alt="GitHub Streak" width="90%">
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.io/satvik231" alt="satvik231's Github chart" width="90%">
+</p>
+
+<!--
+  The snake graph below animates your contribution grid. To make it work:
+  1. Go to your GitHub profile repo (the one named exactly like your username) → Actions tab
+  2. Create a workflow using `Platane/snk` (search "github-contribution-grid-snake" on GitHub)
+  3. It generates snake.svg automatically and updates it daily — then this image will render
+-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/satvik231/satvik231/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="90%">
+</p>
+
 ---
 
 ### 🎓 Education & Certifications
 
 - 🎓 Master's in Information Technology, Mulund college of commerce — 2025
-- 📜 AI Powered Data Analyst — Code With Harry *(e.g., Google Data Analytics, Coursera)*
+- 📜 AI Powered Data Analyst — Code With Harry 
+
 ---
 
 ### 📫 Let's Connect
