@@ -1,99 +1,72 @@
-<h1 align="center">Hi there, I'm Satvik 👋</h1>
-<h3 align="center">Data Analyst | Turning raw data into clear decisions</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Python+%7C+SQL;Excel+%E2%80%A2+Power+BI+%E2%80%A2+Tableau;Turning+Data+Into+Decisions" alt="Typing SVG" />
-</p>
+# Satvik ✦ Data Analyst
 
-<p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/satvik231" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+**Turning raw numbers into decisions that matter**
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=550&lines=Data+Analyst+%7C+Insights+%2B+Impact;Python+%E2%80%A2+SQL+%E2%80%A2+Excel;Power+BI+%E2%80%A2+Tableau+%E2%80%A2+Statistics" alt="Typing SVG" />
 
-### 🚀 About Me
+<a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/satvik231" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
-- 🔍 I love digging into data and finding the story hidden inside it
-- 📊 I work with **Excel, SQL, Python, Power BI, and Tableau** to analyze and visualize data
-- 📈 Strong foundation in **Statistics** for data-driven decision making
-- 🌱 Currently sharpening my skills in advanced analytics & dashboarding
-- 💬 Ask me about data cleaning, EDA, dashboards, or visualization
-- ⚡ Fun fact: I find patterns in spreadsheets the way some people find patterns in stars
+</div>
 
----
+<br>
 
-### 🛠️ My Tech Stack
+## 👋 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-</p>
+I'm a data analyst who enjoys the moment a messy spreadsheet turns into a clean, obvious story. My day-to-day is a mix of querying, cleaning, visualizing, and explaining — I care as much about *why* a number moved as about the number itself.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Statistics-555555?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Statistics" />
-</p>
+- 🔎 Comfortable across the full analysis pipeline: extract → clean → explore → visualize → present
+- 📐 Solid grounding in statistics, so conclusions hold up to scrutiny
+- 📊 I build dashboards people actually open more than once
+- 🌱 Currently leveling up on advanced analytics and storytelling with data
+- 💬 Happy to talk shop about EDA, dashboard design, or SQL query optimization
 
----
+<br>
 
-### 📊 GitHub Stats
+## 🧰 Tools I Reach For
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=satvik231&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satvik231&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satvik231&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+| Category | Tools |
+|---|---|
+| **Languages & Querying** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Analysis & Reporting** | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Statistics](https://img.shields.io/badge/Statistics-555555?style=flat-square&logo=googleanalytics&logoColor=white) |
+| **Visualization / BI** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) |
+| **Python Libraries** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white) |
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satvik231&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
+</div>
 
----
+<br>
 
-### 🏆 Featured Projects
+## 📌 Featured Work
 
-<p align="center">
-  <a href="https://github.com/satvik231" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satvik231&repo=your-repo-1&theme=tokyonight&hide_border=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/satvik231" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satvik231&repo=your-repo-2&theme=tokyonight&hide_border=true" alt="Project 2" />
-  </a>
-</p>
+<div align="center">
+  <a href="https://github.com/satvik231/your-repo-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=satvik231&repo=your-repo-1&theme=default&hide_border=true" /></a>
+  <a href="https://github.com/satvik231/your-repo-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=satvik231&repo=your-repo-2&theme=default&hide_border=true" /></a>
+</div>
 
-> 💡 Replace `your-repo-1` and `your-repo-2` above with your actual repository names to pin your best work.
+> 💡 Swap `your-repo-1` / `your-repo-2` for your actual project repo names to pin them here.
 
----
+<br>
 
-### 📈 Contribution Graph
+## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satvik231&show_icons=true&hide=&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Contribution Stats" />
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=satvik231&show_icons=true&count_private=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satvik231&layout=compact&theme=default&hide_border=true" />
+</div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satvik231&theme=default&hide_border=true" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satvik231&style=for-the-badge&color=blueviolet" alt="Profile views" />
-</p>
+<br>
 
-<p align="center">
-  <i>⭐ From <a href="https://github.com/satvik231">satvik231</a> — Thanks for stopping by!</i>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=satvik231&style=flat-square&color=2E9EF7&label=Profile+Views" />
+  <br><br>
+  <i>Thanks for visiting — always open to a good conversation about data. ✨</i>
+</div>
