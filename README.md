@@ -55,7 +55,7 @@ I'm a data analyst who enjoys the moment a messy spreadsheet turns into a clean,
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=satvik231&show_icons=true&count_private=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=satvik231&show_icons=true&theme=default&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satvik231&layout=compact&theme=default&hide_border=true" />
 </div>
 
