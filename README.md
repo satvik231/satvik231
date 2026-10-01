@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satwik Kambli</h1>
+<h1 align="center">Hi 👋, I'm Satvik Kambli</h1>
 <h3 align="center">Aspiring Data Analyst | Turning Raw Data into Meaningful Insights</h3>
 
 <p align="center">
